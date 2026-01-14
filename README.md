@@ -43,20 +43,3 @@ Essa vivência de "dono" moldou meu perfil técnico: não escrevo código apenas
 
 <br/>
 <br/>
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Kalel-Rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalel-Rodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
