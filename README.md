@@ -2,34 +2,37 @@
 
 **`Engenharia de Software | Dados & Automação`**
 
-Me chamo Kalel Rodrigues, tenho 20 anos e sou do Rio de Janeiro. Minha paixão é usar a tecnologia para resolver problemas reais de negócio.
+# Olá, sou o Kalel 👋
 
-🚀 **Minha Jornada:**
-Atuo como empreendedor no setor de alimentação. Comecei a gestão no papel e caneta para validar o negócio e, atualmente, estou digitalizando toda a operação (controle de fluxo de caixa, custos de ingredientes e meios de pagamento) através de planilhas estruturadas e análise de dados.
+Estudante de Engenharia de Software (Uninter) | Estagiário na Dataprev
 
-Essa vivência de "dono" moldou meu perfil técnico: não escrevo código apenas por escrever, mas para gerar eficiência e lucro.
+Atuo com Java em sistemas corporativos — hoje contribuindo na migração de um 
+sistema legado para Oracle — e uso Python para ciência de dados fora do trabalho, 
+aplicado a projetos de portfólio em SQL e Machine Learning. Também desenvolvo 
+dashboards em Power BI (DAX, modelagem dimensional).
 
-🔭 **Foco Atual:**
-- **Ciência de Dados (Finanças):** Estou desenvolvendo uma análise exploratória no dataset **"Home Credit Default Risk"** (Kaggle) para entender padrões de inadimplência.
-- **Planejamento:** Após finalizar a análise, irei desenvolver um **Habit Tracker** focado em organização e produtividade.
-- **Backend & Automação:** Meu forte é a lógica. Gosto de criar scripts em **Python** para automatizar tarefas repetitivas e limpar dados.
+Meu objetivo é crescer em desenvolvimento backend e dados, unindo essas duas frentes.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/kalel-rodrigues" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://github.com/Kalel-Rodrigues?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Kalel-Rodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+## 🔭 Em foco atual
+- Trilha SQL Associate (DataCamp)
+- Projetos de portfólio aplicando SQL e Machine Learning a datasets reais
 
----
+## 🛠 Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🛠 Stack Tecnológico
+## 📌 Projetos em destaque
+- **[soccer-sql-analysis](https://github.com/Kalel-Rodrigues/soccer-sql-analysis)** 
+  — Análise em SQL do European Soccer Database: vantagem de mandante, performance 
+  de times vs. média da liga, forma recente e oscilações de temporada, usando CTEs, 
+  subqueries e window functions.
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/kalel-rodrigues)o
 
 <div style="display: inline_block">
   <img align="left" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
