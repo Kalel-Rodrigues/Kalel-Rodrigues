@@ -32,17 +32,4 @@ Meu objetivo é crescer em desenvolvimento backend e dados, unindo essas duas fr
   subqueries e window functions.
 
 ## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/kalel-rodrigues)o
-
-<div style="display: inline_block">
-  <img align="left" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="Pandas" title="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="left" alt="Numpy" title="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img align="left" alt="Matplotlib" title="Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  <img align="left" alt="Excel" title="Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
-  <img align="left" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
-
-<br/>
-<br/>
+[LinkedIn](https://www.linkedin.com/in/kalel-rodrigues)
