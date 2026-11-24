@@ -1,35 +1,37 @@
-# 🧑🏽‍💻 Kalel Rodrigues
-
-**`Engenharia de Software | Dados & Automação`**
-
 # Olá, sou o Kalel 👋
 
-Estudante de Engenharia de Software (Uninter) | Estagiário na Dataprev
+**Estudante de Engenharia de Software (UNINTER, previsão 2028) · Estagiário na Dataprev**
 
-Atuo com Java em sistemas corporativos — hoje contribuindo na migração de um 
-sistema legado para Oracle — e uso Python para ciência de dados fora do trabalho, 
-aplicado a projetos de portfólio em SQL e Machine Learning. Também desenvolvo 
-dashboards em Power BI (DAX, modelagem dimensional).
+Foco em desenvolvimento com **Python** e em dados. Procuro um estágio em desenvolvimento de software, onde eu possa aprender com engenheiros mais experientes e contribuir com automação e dados.
 
-Meu objetivo é crescer em desenvolvimento backend e dados, unindo essas duas frentes.
+## 💼 O que faço no estágio
 
-## 🔭 Em foco atual
-- Trilha SQL Associate (DataCamp)
-- Projetos de portfólio aplicando SQL e Machine Learning a datasets reais
-
-## 🛠 Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Desenvolvo painéis em **Power BI** para diferentes áreas, com modelagem de dados e medidas em **DAX**.
+- Crio **automações em Python**: uma rotina que lê a caixa de e-mail, limpa os dados do arquivo recebido, substitui o arquivo anterior e gera backup, deixando o painel pronto para atualizar.
+- Faço correções de bugs e melhorias em uma ferramenta de extração de dados já existente, com apoio de ferramentas de IA.
 
 ## 📌 Projetos em destaque
-- **[soccer-sql-analysis](https://github.com/Kalel-Rodrigues/soccer-sql-analysis)** 
-  — Análise em SQL do European Soccer Database: vantagem de mandante, performance 
-  de times vs. média da liga, forma recente e oscilações de temporada, usando CTEs, 
-  subqueries e window functions.
+
+- **[soccer-sql-analysis](https://github.com/Kalel-Rodrigues/soccer-sql-analysis)**: análise em SQL do European Soccer Database (vantagem de mandante, desempenho dos times contra a média da liga, forma recente e oscilações entre temporadas), com CTEs, subqueries e window functions.
+- **[Home-Credit-Default-Risk](https://github.com/Kalel-Rodrigues/Home-Credit-Default-Risk)**: modelo de credit scoring para prever inadimplência com dados reais da Home Credit, com foco em feature engineering e classificação.
+- **[cep-clima](https://github.com/Kalel-Rodrigues/cep-clima)**: buscador de CEP e clima usando as APIs ViaCEP e OpenWeather.
+
+## 🛠 Stack
+
+- **Linguagens:** Python, SQL
+- **Dados:** Pandas, Matplotlib, Plotly, Power BI (DAX e modelagem)
+- **Ferramentas:** Git e GitHub
+
+## 🔭 Estudando agora
+
+- Desenvolvimento backend com Python: **FastAPI**, testes com **pytest** e **Docker**
+- Shell/Bash e Git avançado
+
+## 🌐 Idiomas
+
+- Português: nativo
+- Inglês: avançado (EF SET, C1 em leitura)
 
 ## 📫 Contato
+
 [LinkedIn](https://www.linkedin.com/in/kalel-rodrigues)
