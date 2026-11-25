@@ -10,12 +10,6 @@ Foco em desenvolvimento com **Python** e em dados. Procuro um estágio em desenv
 - Crio **automações em Python**: uma rotina que lê a caixa de e-mail, limpa os dados do arquivo recebido, substitui o arquivo anterior e gera backup, deixando o painel pronto para atualizar.
 - Faço correções de bugs e melhorias em uma ferramenta de extração de dados já existente, com apoio de ferramentas de IA.
 
-## 📌 Projetos em destaque
-
-- **[soccer-sql-analysis](https://github.com/Kalel-Rodrigues/soccer-sql-analysis)**: análise em SQL do European Soccer Database (vantagem de mandante, desempenho dos times contra a média da liga, forma recente e oscilações entre temporadas), com CTEs, subqueries e window functions.
-- **[Home-Credit-Default-Risk](https://github.com/Kalel-Rodrigues/Home-Credit-Default-Risk)**: modelo de credit scoring para prever inadimplência com dados reais da Home Credit, com foco em feature engineering e classificação.
-- **[cep-clima](https://github.com/Kalel-Rodrigues/cep-clima)**: buscador de CEP e clima usando as APIs ViaCEP e OpenWeather.
-
 ## 🛠 Stack
 
 - **Linguagens:** Python, SQL
